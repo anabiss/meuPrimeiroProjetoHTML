@@ -9,7 +9,7 @@ p {
 
 
 body {
-    background: beige;
+    background: rgb(89, 125, 224);
     font-family: Arial, sans-serif;
     font-size: 16px;
 }
@@ -22,7 +22,7 @@ h1 {
 
 
   button {
-    background-color: #4CAF50; /* Verde */
+    background-color: #6940c9; /* Verde */
     color: white;
     padding: 10px 20px;
     border: none;
